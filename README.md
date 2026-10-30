@@ -4,4 +4,4 @@
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/dedicatedtol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/dedicatedtol?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/dedicatedtol/total?style=flat&color=blue)
 
-Nueva interfaz, compatible con tol pro v0.7 y con nuevas funciones, pronto!
+Nueva interfaz, compatible con tol pro v0.8 y con nuevas funciones, pronto!
