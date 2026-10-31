@@ -5,3 +5,4 @@
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/dedicatedtol/total?style=flat&color=blue)
 
 Nueva interfaz, compatible con tol pro v0.8 y con nuevas funciones, pronto!
+Basado en la v1.1d
