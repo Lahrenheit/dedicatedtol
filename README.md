@@ -58,7 +58,6 @@ python tol_server_manager.py
 
 ### Cómo trata los archivos
 
-- **DLL**: se copian a `<servidor>\comun\bin\release` (es el único sitio donde `Dedicated.exe` las lee). Antes de reemplazar una DLL se guarda la original como `<nombre>.dll.bak` (por ejemplo `Main.dll.bak`). El botón **Restaurar DLL originales** devuelve todo a su estado inicial.
 - **Parchear IP**: solo cambia `Main.dll` cuando pulsas ese botón (máximo 15 caracteres; deja `Main.dll.bak`).
 - **Ruta de datos**: sin la opción `-p`, `Dedicated.exe` lee la carpeta de `demo.vpk` del registro (`HKLM\SOFTWARE\Virtual toys\Torrente on-line`, valor `path`); el manager la iguala a la carpeta del cliente al iniciar (puede pedir permisos de administrador).
 - **Red base**: se guarda como `netGUID` en el mismo registro que usa el cliente. El juego, al no ejecutarse como administrador, guarda su propia copia en el `VirtualStore` del usuario; el manager actualiza ambas.
@@ -109,7 +108,6 @@ python tol_server_manager.py
 
 ### How files are handled
 
-- **DLLs** are copied to `<server>\comun\bin\release` (the only place `Dedicated.exe` reads them from). Before replacing a DLL, the original is saved as `<name>.dll.bak` (e.g. `Main.dll.bak`). **Restore original DLLs** puts everything back.
 - **Patch IP** only changes `Main.dll` when you press that button (15 characters max; leaves `Main.dll.bak`).
 - **Data path**: without `-p`, `Dedicated.exe` reads the `demo.vpk` folder from the registry (`HKLM\SOFTWARE\Virtual toys\Torrente on-line`, value `path`); the manager sets it to the client folder on start (it may ask for administrator rights).
 - **Base network** is stored as `netGUID` in the same registry key the client uses. Because the game runs without administrator rights, it keeps its own copy in the user's `VirtualStore`; the manager updates both.
