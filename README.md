@@ -12,8 +12,17 @@ Visual manager (Python + tkinter, no external dependencies) to create and contro
 Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 
 > Proyecto de fans, no afiliado con Virtual Toys. / Fan project, not affiliated with Virtual Toys.
+---
+**Vista previa del programa:**
+
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/1.png)
+![Screenshot 56](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/2.png)
+![Screenshot 57](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/3.png)
+![Screenshot 58](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/4.png)
 
 ---
+
+
 
 ## Español
 
