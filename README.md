@@ -13,7 +13,7 @@ Basado en la versión server 1.1d
 
 Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 
-> Proyecto de fans, no afiliado con Virtual Toys. / Fan project, not affiliated with Virtual Toys.
+> Proyecto fan, no afiliado con Virtual Toys. / Fan project, not affiliated with Virtual Toys.
 ---
 **Vista previa del programa:**
 
