@@ -43,7 +43,7 @@ Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 - Windows (el servidor y el cliente de Torrente On-Line son de Windows).
 - Python 3.8 o superior **con tkinter** (incluido en el instalador oficial de Python), o el `.exe` compilado.
 - Una carpeta del servidor dedicado de Torrente On-Line (`Dedicated.exe`, `respawn.exe`, `vtserver.dll`, `server.cfg`, `comun\bin\release`).
-- Opcional: la carpeta del juego/cliente (con `demo.vpk` y sus DLL).
+- Torrente On-Line instalado.
 
 ### Uso
 
@@ -93,7 +93,7 @@ python tol_server_manager.py
 - Windows.
 - Python 3.8+ **with tkinter** (included in the official installer), or the compiled `.exe`.
 - A Torrente On-Line dedicated server folder (`Dedicated.exe`, `respawn.exe`, `vtserver.dll`, `server.cfg`, `comun\bin\release`).
-- Optional: the game/client folder (with `demo.vpk` and its DLLs).
+- Torrente On-Line installed
 
 ### Usage
 
