@@ -134,7 +134,6 @@ Administrador visual (Python + tkinter, sem dependências externas) para criar e
 - **Mapas / Ciclo**: edita o `SCENE_LOOP` com os mapas `mp_*` do `demo.vpk` e mostra a pré-visualização (`texs\<mapa>-tbn.tex`).
 - **Configuração (server.cfg)**: todos os parâmetros, importar/exportar JSON e escolha da **rede base** do servidor.
 - **Rede / IP**: altera o endereço do matchmaker no `Main.dll`, testa o DNS e cria a regra do firewall.
-- **DLLs**: usa as DLLs do servidor e as do cliente que faltarem; os originais ficam como `<nome>.dll.bak` e podem ser restaurados.
 - **Idiomas**: Español, Português, English.
 
 Requisitos: Windows e Python 3.8+ com tkinter (ou o `.exe` compilado). Uso: `python tol_server_manager.py`, depois indique a pasta do servidor e a pasta do cliente (onde está o `demo.vpk`).
