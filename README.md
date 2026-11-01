@@ -4,7 +4,7 @@
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/dedicatedtol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/dedicatedtol?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/dedicatedtol/total?style=flat&color=blue)
 
-**Idioma / Language / Idioma:** [Español](#español) · [English](#english) · [Português](#português)
+🌐 **[Español](#español) · [English](#english) · [Português](#português)**
 
 Administrador visual (Python + tkinter, sin dependencias externas) para crear y controlar un servidor dedicado de **Torrente On-Line** (Virtual Toys, 2004).
 Visual manager (Python + tkinter, no external dependencies) to create and control a **Torrente On-Line** dedicated server.
