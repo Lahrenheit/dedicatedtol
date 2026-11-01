@@ -9,6 +9,8 @@
 Administrador visual (Python + tkinter, sin dependencias externas) para crear y controlar un servidor dedicado de **Torrente On-Line** (Virtual Toys, 2004).
 Visual manager (Python + tkinter, no external dependencies) to create and control a **Torrente On-Line** dedicated server.
 
+Basado en la versión server 1.1d
+
 Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 
 > Proyecto de fans, no afiliado con Virtual Toys. / Fan project, not affiliated with Virtual Toys.
