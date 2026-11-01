@@ -36,7 +36,6 @@ Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 - **Mapas / Ciclo**: edita el `SCENE_LOOP` de `server.cfg` con los mapas `mp_*` que hay en la carpeta `scn` de `demo.vpk` (en mayúsculas) y muestra la vista previa (`texs\<mapa>-tbn.tex`). Solo aparecen los mapas que tienen imagen.
 - **Configuración (server.cfg)**: todos los parámetros (puerto, nombre, contraseña, jugadores, tiempos, puntos, fuego aliado, etc.) con validación, importar/exportar JSON y **selección de la red base** del servidor.
 - **Red / IP**: cambia la dirección del matchmaker dentro de `Main.dll` (botón *Parchear IP*), prueba el DNS, crea la regla del firewall y muestra las IP locales y la pública.
-- **DLL**: usa las DLL del servidor y, si indicas la carpeta del cliente, las que le faltan (por ejemplo las de los mapas de mods como ToL-PrO), re-enlazadas para el servidor.
 - **Idiomas**: español, português e English (selector arriba a la derecha).
 
 ### Requisitos
@@ -88,7 +87,6 @@ python tol_server_manager.py
 - **Maps / Cycle**: edit the `SCENE_LOOP` in `server.cfg` using the `mp_*` maps found in the `scn` folder of `demo.vpk` (uppercase), with a preview (`texs\<map>-tbn.tex`). Only maps that have a preview are listed.
 - **Settings (server.cfg)**: every parameter (port, name, password, players, time, points, friendly fire, …) with validation, JSON import/export and **server base network** selection.
 - **Network / IP**: change the matchmaker address inside `Main.dll` (*Patch IP* button), test DNS, create the firewall rule, show local and public IPs.
-- **DLLs**: uses the server's DLLs and, if you set the client folder, the ones the server lacks (e.g. mod maps such as ToL-PrO), re-linked for the server.
 - **Languages**: Español, Português and English (selector at the top right).
 
 ### Requirements
