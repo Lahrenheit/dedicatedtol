@@ -17,10 +17,10 @@ Repositorio / Repository: <https://github.com/Lahrenheit/dedicatedtol>
 ---
 **Vista previa del programa:**
 
-![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/p1.png)
-![Screenshot 56](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/p2.png)
-![Screenshot 57](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/p3.png)
-![Screenshot 58](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/p4.png)
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/prev1.png)
+![Screenshot 56](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/prev2.png)
+![Screenshot 57](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/prev3.png)
+![Screenshot 58](https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/prev4.png)
 
 ---
 
