@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/DGVSxJL.png" width="50" height="50"/> Torrente On-Line Server Manager
+# <img src="https://raw.githubusercontent.com/Lahrenheit/dedicatedtol/refs/heads/main/IconGroup108_green-6.png" width="50" height="50"/> Torrente On-Line Server Manager
 
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/dedicatedtol?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/dedicatedtol?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/dedicatedtol?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/dedicatedtol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/dedicatedtol?style=flat&color=success)
