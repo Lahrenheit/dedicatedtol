@@ -2,7 +2,8 @@
 
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/dedicatedtol?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/dedicatedtol?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/dedicatedtol?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/dedicatedtol?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/dedicatedtol?style=flat&color=success)
-![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/dedicatedtol/total?style=flat&color=blue)
+![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/dedicatedtol/total?style=flat&color=blue) [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+
 
 🌐 **[Español](#español) · [English](#english) · [Português](#português)**
 
